@@ -26,5 +26,9 @@ title: "References"
 - Fleitman, Yvonne, and Alisa Baginski. 2018. *Chimu*.
 
 - Karski, Kamil. 2014. "The Double-Chambered Vessel of the Chimú Culture in the Castle Museum in Łańcut." *Materiały I Sprawozdania Rzesowskiego Ośrodka* XXXV: 273 – 80. https://www.academia.edu/37292300/The\_double\_chambered\_vessel\_of\_the\_Chim%C3%BA\_culture\_in\_the\_Castle\_Museum\_in\_%C5%81a%C5%84cut\_ENG\_.
+
+- _Chan Chan: General View_. c.1250 A.D. Visual Arts Legacy Collection. Artstor. https://jstor.org/stable/community.18117881.
+
+- Albers, Josef (German-American painter, theorist, 1888-1976). Chan-Chan, Peru. 1953. Photo collage, 10 x 8" (25.4 x 20.32 cm). The Josef and Anni Albers Foundation. https://jstor.org/stable/community.9174973.
  
 - ‌Swenson, Edward R. 2007. "Local Ideological Strategies and the Politics of Ritual Space in the Chimú Empire." *Archaeological Dialogues* 14 (1): 61 – 90. https://doi.org/10.1017/s138020380700219x.

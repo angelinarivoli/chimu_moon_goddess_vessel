@@ -5,7 +5,7 @@ title: "References"
 - Scher, Sarahh. 2017. The Chimu Culture, An Introduction*,* *Smart History*, https://smarthistory.org/chimu/
   Moore, Jerry D. and Carol J. Mackey. 2008. "The Chimú Empire."
 
-   Wauters, Valentine. 2016. "Imperial Needs, Imperial Methods: Chimú Ceramic Manufacturing Process Through CT Scan Analysis of Stirrup-Spout Bottles." *Latin American Antiquity* 27, no. 2: 238 – 56. https://doi.org/10.7183/1045-6635.27.2.238. 
+-  Wauters, Valentine. 2016. "Imperial Needs, Imperial Methods: Chimú Ceramic Manufacturing Process Through CT Scan Analysis of Stirrup-Spout Bottles." *Latin American Antiquity* 27, no. 2: 238 – 56. https://doi.org/10.7183/1045-6635.27.2.238. 
 
 - Moseley, Michael E. 1975. "Chan Chan: Andean Alternative of the Preindustrial City." *Science* 187, no. 4173: 219 – 25. http://www.jstor.org/stable/1739056.
 
@@ -32,3 +32,7 @@ title: "References"
 - Albers, Josef (German-American painter, theorist, 1888-1976). Chan-Chan, Peru. 1953. Photo collage, 10 x 8" (25.4 x 20.32 cm). The Josef and Anni Albers Foundation. https://jstor.org/stable/community.9174973.
  
 - ‌Swenson, Edward R. 2007. "Local Ideological Strategies and the Politics of Ritual Space in the Chimú Empire." *Archaeological Dialogues* 14 (1): 61 – 90. https://doi.org/10.1017/s138020380700219x.
+
+- "Double-Chambered Bottle: Moon Goddess and Animals." 2018. Mbam.qc.ca. 2018.) https://www.mbam.qc.ca/en/works/54247/
+
+- "Double Chambered Whistling Jar", Syracuse University, Object Number: 0040.112, https://onlinecollections.syr.edu/objects/274/double-chambered-ceremonial-vessel)

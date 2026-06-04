@@ -7,4 +7,4 @@ title: "Go deeper"
 ![Albers-ChanChanPeru-1953](https://angelinarivoli.github.io/chimu_moon_goddess_vessel/iiif/objects/alberschanchanperu1953/alberschanchanperu1953.jpg)
 Detail of Chimu bas-relief murals at Chan Chan. Image courtesy of The Josef and Anni Albers Foundation.
 ![Detail_of_-ChanChan_general-c1250 AD](https://angelinarivoli.github.io/chimu_moon_goddess_vessel/iiif/objects/detailofchanchangeneralc1250-ad/detailofchanchangeneralc1250-ad.jpg)
-General view of Chan Chan, Image courtesy of JSTOR Visual Arts Legacy Collection.
+General view of Chan Chan. Image courtesy of JSTOR Visual Arts Legacy Collection.

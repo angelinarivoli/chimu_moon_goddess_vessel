@@ -35,4 +35,8 @@ title: "References"
 
 - "Double-Chambered Bottle: Moon Goddess and Animals." 2018. Mbam.qc.ca. 2018.) https://www.mbam.qc.ca/en/works/54247/
 
+- Katelynmariah. "Peruvian Whistling Vessels." Unleashing My wild creativity!, July 19, 2015. https://shiftdiva.wordpress.com/2015/07/19/peruvian-whistling-vessels/
+
+- Whistling jar - peruvian - pre-columbian - the metropolitan museum of art. Accessed June 4, 2026. https://www.metmuseum.org/art/collection/search/502279.
+
 - "Double Chambered Whistling Jar", Syracuse University, Object Number: 0040.112, https://onlinecollections.syr.edu/objects/274/double-chambered-ceremonial-vessel)

@@ -1,0 +1,10 @@
+---
+title: "Conclusion"
+---
+
+  From 900CE to 1470CE the Chimu civilization dominated the north coast of Peru. As their empire expanded, the Chimu developed sophisticated artistic traditions that reflected their cultural values and beliefs. This Chimu whistle demonstrates that the artisans possessed advanced technical knowledge and remarkable creativity. Through the careful design of hidden chambers and whistle mechanisms they were able to produce distinctive sounds through the movement of air and water. The imagery represented on the whistle also reflects important aspects of Chimu culture and belief. Many of the whistles are shaped as birds, animals, or human figures, suggesting a connection to the natural world and the spiritual traditions of the Chimu people. Some scholars have linked the human features on vessels like this one to the Chimu sea goddess who is associated with protection and sustenance. Using molds allowed these vessels to be standardized and mass-produced, making them accessible to a wider population rather than being limited to the elite members of society.  This vessel showcases how the Chimu people understood that sound could communicate meaning and evoke emotion. Because the whistle can both be seen and heard, it was likely a powerful sensory experience for the individuals who interacted with it. This  Chimu whistle is an example of creativity, knowledge and the traditions that flourished in Chimu culture.
+  ![chimucomparisongoddesssvessel02](https://angelinarivoli.github.io/chimu_moon_goddess_vessel/iiif/objects/chimucomparisongoddesssvessel02/chimucomparisongoddesssvessel02.jpg)
+  Image Courtesy of Syracuse University Art Museum.
+  
+
+_The image shows a similar vessel with the same deity depicted. With there being multiple examples of these vessels it agrees with our explanation that the vessels were made to be transported around the empire._
